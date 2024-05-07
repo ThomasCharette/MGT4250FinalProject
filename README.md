@@ -2,8 +2,6 @@
 
 Authors: Kieran Colasurdo (kcolasurdo2@elon.edu), Thomas Charette (tcharette2@elon.edu), Allison Katz (akatz9@elon.edu)
 
-## Project Description
-### Questions of Interest
 ## What is the Impact of Interest Rates and Unemployment Rate on Savings Rate?
 
 ### Importance statement
