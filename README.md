@@ -4,7 +4,7 @@ Authors: Kieran Colasurdo (kcolasurdo2@elon.edu), Thomas Charette (tcharette2@el
 
 ## What is the Impact of Interest Rates and Unemployment Rate on Savings Rate?
 
-### Importance statement
+### Importance Statement
 This question is important because insights into monetary policy, such as interest rates, have a huge role in how central banks manage unemployment, regulate inflation, and affect economic activity. Seeing their effect on consumer behavior is crucial to determining the success of monetary policy.  
 
 Another major aspect is concerning economic growth and stability. Interest rates and unemployment data have widespread effects on the direction of our economy. Analyzing savings rates linked to interest and unemployment is important to assess the state of the economy and its potential growth, as saving rates have a large impact on GDP and capital availability for investment. That could be either spending decreases or business activity skyrocketing; the list goes on. 
