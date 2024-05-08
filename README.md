@@ -35,3 +35,5 @@ The “Interest Rate Level vs. Average Personal Savings Rate” bar chart visual
 
 ### Discussion & Summary
 
+This study has demonstrated the intricate relationships between interest rates, unemployment rates, and savings rates as well as how these relationships affect the overall state of the economy. According to the data, consumers frequently save more when unemployment rates are higher, indicating that they are saving responsibly. Similar to this, but not a substantial correlation, the relationship between interest rates and savings rates suggests that higher interest rates could promote saving by providing better returns. The relationship between monetary policy and economic development and stability is highlighted by these relationships. After all, policymakers hoping to maximize economic results by adjusting interest rates and controlling unemployment must comprehend these processes. This research adds to the conversation about the success of economic policies by offering insights that may help future plans for achieving development and stability in the economy.
+
