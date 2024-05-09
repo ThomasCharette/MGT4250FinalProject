@@ -1,4 +1,4 @@
-import streamlit as st
-import pandas as pd
-import matplotlib. pyplot as plt
-import plotly as plt
+!pip install streamlit
+!pip install pandas
+!pip install matplotlib
+!pip install plotly
