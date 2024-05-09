@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("data/macro_monthly.csv")
+df = pd.read_csv("MGT4250FinalProject/macro_monthly.csv")
 df["DATE"] = pd.to_datetime(df["DATE"])
 corr_matrix = df[["unrate","psr", "ir"]]
 corr_matrix.columns = ["Unemployment Rate", "Personal Savings Rate", "Interest Rates"]
