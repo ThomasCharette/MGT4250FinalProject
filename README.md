@@ -18,6 +18,7 @@ Our data was collected from Kaggle, a well-respected and legitimate website used
 
 ### Interpreting Visualizations
 ## Graph 1
+https://mgt4250finalproject-xupvszdwghnusy4npwmliu.streamlit.app/
 
 A correlation matrix is a perfect representation to analyze the impact on savings rates with a side-by-side comparison. A matrix allows you to see how related changes in variables are to one another. By the looks of it, the personal saving rate and unemployment rate (.50) indicated a somewhat positive relationship. There exists a trend for a personal savings rate to rise in line with the unemployment rate. This suggests that people who have savings may be more likely to save a sa precaution when more people lose their jobs. 
 Additionally, interest rates and the unemployment rate (.25) show a positive relationship. Interest rates may rise in line with an increase in the unemployment rate, although the correlation is weaker. This may be seen as central banks responding to unemployment by changing interest rates, but there are other important forces at work as well. Lastly, interest rates and the personal saving rate (.28) likewise shows a weak positive correlation. It implies that there may be a little increase in personal savings rates in line with rising interest rates. This may be because interest rates offer a better return on savings, however the correlation is not very strong. 
